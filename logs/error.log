@@ -1,0 +1,187 @@
+28-10-2026 09:45:19 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:45:25 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:45:38 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:45:51 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:02 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:04 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:12 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:19 | ERROR | Error: Can't find "/files/null"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:25 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:34 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:46:45 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:48:11 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:48:23 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:48:29 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 09:48:37 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 10:02:45 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
+28-10-2026 10:02:52 | ERROR | Error: Can't find "/files/undefined"
+    at D:\رواد\lectures\NTI\ecommerback\server.js:31:6
+    at Layer.handleRequest (D:\رواد\lectures\NTI\ecommerback\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:342:13)
+    at D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:297:9
+    at processParams (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:582:12)
+    at next (D:\رواد\lectures\NTI\ecommerback\node_modules\router\index.js:291:5)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\serve-static\index.js:120:7)
+    at SendStream.emit (node:events:519:28)
+    at SendStream.error (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:168:17)
+    at SendStream.onStatError (D:\رواد\lectures\NTI\ecommerback\node_modules\send\index.js:315:12) 
